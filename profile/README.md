@@ -1,4 +1,1 @@
-## TerraMystics is an organisation dedicated to generate funding for the LUNC Community. We burn the Supply & Fund Ourselves with L2
-
-https://user-images.githubusercontent.com/20945125/213867275-cdf0f6c2-4d09-4054-93b9-1d9372094e72.mp4
-
+TerraMystics is an organisation that arose due to the need for utility & burn initiatives for the LUNC/LUNA Blockchains. We fund ourselves through our own product development and believe in bringing more developers into the Terra Ecosystem through OpenSource. Our goal is to maximise on chain transactions for the LUNC/LUNA Blockchains. With more transactions, we can burn more of the supply. 
