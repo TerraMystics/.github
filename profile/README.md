@@ -2,5 +2,4 @@ TerraMystics is an organisation that arose due to the need for utility & burn in
 
 You can follow us on our [twitter](https://twitter.com/realArchitectDG) page, or join our [discord](https://discord.gg/bUgVUmrY).
 
-
-![mysticsIntro (1)](https://user-images.githubusercontent.com/20945125/213972893-b871aa5d-6962-4c6e-9b27-8bf4f4fc7ac7.gif)
+![mysticsIntro (5)](https://user-images.githubusercontent.com/20945125/214185814-f059e099-295f-4e7d-9194-90e93df45921.gif)
